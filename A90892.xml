@@ -1,0 +1,371 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached upon Psalm 22, the former part of the first verse wherein is shewed, how, when and wherefore God doth desert his children, unto which is also annexed, certaine symptomes of a deserted condition, with directions unto those who have lost God's favour, how to get it : and directions likewise unto those who have gotten God's favour, how to keep it / by T.P.</title>
+            <author>Powell, Thomas, 1608-1660.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1674</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90892</idno>
+            <idno type="STC">Wing P3075A</idno>
+            <idno type="STC">ESTC R43720</idno>
+            <idno type="EEBO-CITATION">42475138</idno>
+            <idno type="OCLC">ocm 42475138</idno>
+            <idno type="VID">151287</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90892)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151287)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2253:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached upon Psalm 22, the former part of the first verse wherein is shewed, how, when and wherefore God doth desert his children, unto which is also annexed, certaine symptomes of a deserted condition, with directions unto those who have lost God's favour, how to get it : and directions likewise unto those who have gotten God's favour, how to keep it / by T.P.</title>
+                  <author>Powell, Thomas, 1608-1660.</author>
+               </titleStmt>
+               <extent>15 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>Printed in the Year 1674.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: William Andrews Clark Memorial Library, University of California, Los Angeles.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Psalms XXII, 1 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:151287:1" rendition="simple:additions"/>
+            <p>A SERMON Preached upon <hi>Pſalm</hi> 22, <hi>the former part of the firſt <g ref="char:V">Ʋ</g>erſe.</hi>
+            </p>
+            <p>WHEREIN Is ſhewed, how, when and wherefore God doth deſert his Children, Unto which is alſo Annexed, certain Symptomes Of a Deſerted Condition; with Directions unto thoſe who have loſt God's favour, how to get it; and directions likewiſe unto thoſe who have gotten God's Fa<g ref="char:EOLhyphen"/>vour, how to keep it.</p>
+            <p>By <hi>T. P.</hi>
+            </p>
+            <q>
+               <bibl>Matt. <hi>27.46.</hi>
+               </bibl> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</q>
+            <p>Printed in the Year 1674.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:151287:2"/>
+            <pb facs="tcp:151287:2"/>
+            <head>To my much Honoured and Eſte<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>d Friend, Mr. <hi>Joſeph Holden</hi> of <hi>London</hi> Gent.</head>
+            <opener>
+               <salute>Worthy Sir,</salute>
+            </opener>
+            <p>SInce God (by divine Providence) has been pleaſed to exerciſe me, with many ſtrange unparallel'd afflictions, which you (above all) have been privy too; and ſince your Favour and unmerited kindneſs (both as to external and internal things) hath been ſo fre<g ref="char:EOLhyphen"/>quently and bountifully vouchſafed to me in my deplorable condition. I thought my ſelf obliged to offer up the firſt Fruits of my Laborious Stu<g ref="char:EOLhyphen"/>dies to your Patronage; humbly beging your Acceptance thereof: The enſuing work has been delivered <hi>(verbatim)</hi> in a Publique Audi<g ref="char:EOLhyphen"/>tory, in <hi>London;</hi> it treats of Spiritual Deſertions, with which I my ſelf have been greatly exerciſed, ſo that what comes to the view of your Candid Eye, has been Operated and wrought by my own Experiences, and conſequentially not ſo fully Fraught with Rhetorical Expreſſions. I might indeed have dreſt it in a more curious Garb, but that I affect plainneſs; only deſiring it may be effectual for a publick Good: But however, my tender years (I hope) will Appologize for the homely Style and confuſed matter, and though it be ſo rag'd and unhandſome a Flow<g ref="char:EOLhyphen"/>er, yet if any can but ſuch ſweetneſs and Spiritual benefit therefrom, my deſire is accompliſh'd. But leſt I ſhould exceed the limits of an E<g ref="char:EOLhyphen"/>piſtle, I only beg your continued Favour, and Subſcribe my Self,</p>
+            <closer>
+               <signed>
+                  <hi>Your much Obliged Friend and Servant in the Work of the Lord,</hi> T. Powel</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:151287:3"/>
+            <pb n="5" facs="tcp:151287:3"/>
+            <epigraph>
+               <bibl>
+                  <hi>Pſal. 22.1.</hi>
+               </bibl>
+               <q>My God, My God, why haſt thou forſaken me.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>His Book of the Pſalms receives its name from <hi>(Pſallere)</hi> which ſignifies to ſing; being ſtiled by the Ancients, to be a Solloloquie: becauſe it is as it were a diſcourſe managed and carryed on between God and the Soul: St. <hi>Chryſoſt.</hi> calls it the Bed of Roſes, becauſe a Saint by Divine Meditation doth receive a fragrant ſcent from thence, its like<g ref="char:EOLhyphen"/>wiſe called <hi>(parva Biblia)</hi> becauſe in a brief manner, there is contein'd in it as in a Bible, <hi>viz,</hi> Hyſtory, Law and Promiſes. Concerning this Book of the Pſalmes, there are many diviſi<g ref="char:EOLhyphen"/>ons, ſome calls them Hymns, ſome call them Pſalms, ſome divides them into five Books, ſome divides them into theſe fol<g ref="char:EOLhyphen"/>lowing Sections, <hi>viz.</hi> 1. Prayers, 2. Thankſgivings, 3. Con<g ref="char:EOLhyphen"/>ſolations, 4. Propheſies, 5. Doctrines.</p>
+            <p>Firſt, all thoſe Pſalms are called Prayers, wherein any thing <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s deſired or petitioned of God, as <hi>(Miſerere mei Deus)</hi> O God <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ave mercy on me, and as <hi>(Ne in furore arguas me)</hi> Do not re<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uke me in thy hot diſpleaſure. Secondly, all thoſe Pſalms are <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>alled Thankſgivings, wherein we do return thanks unto God <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or any benefit received, as <hi>(Benedicite)</hi> Bleſs ye the Lord. Thirdly, all thoſe Pſalms are called Conſolations, wherein we <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o find words to this effect, <hi>(Beati quorum remiſiae ſunt iniquita<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es)</hi> Bleſſed are thoſe whoſe iniquities are pardoned and for<g ref="char:EOLhyphen"/>given. Fourthly, all thoſe Pſalms are called Propheſies, wherein the Meſſiah is foretold and deſcribed. Fifthly, all <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hoſe Pſalms are called Doctrines, wherein precepts and di<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ctions are lay'd down.</p>
+            <p>The uſe of a Pſalm is manifold, there are five eſpecial times when Pſalms are fit, meet, and ſuitable to be ſung.</p>
+            <list>
+               <item>The firſt is, when thy Heart acheth, Pſalms they are a holy
+<pb n="6" facs="tcp:151287:4"/>preſervative againſt the aching of the Heart, when thy Hea<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>aches, ſing a Pſalm, and how will it raiſe thy Spirits.</item>
+               <item>Secondly, When thou art deſtitute of humane help, ho<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> many Pſalms mayſt thou find that ſhall come near thy Caſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in that ſame thing, <hi>viz.</hi> thy being deſtitute of humane help.</item>
+               <item>Thirdly, When thou art ſuppreſſed by any Enemie, whe<g ref="char:EOLunhyphen"/>ther Forrein or Domeſtical, External or Internal.</item>
+               <item>Fourthly, When thou art baniſh'd and debarr'd from th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Friends.</item>
+               <item>Fifthly, When thou art depoſed out of that Office where<g ref="char:EOLunhyphen"/>in God has been pleas'd to place thee, all theſe Eſtates, Con<g ref="char:EOLunhyphen"/>ditions and caſes, <hi>David's</hi> Pſalms doth ſuite mighty well<g ref="char:punc">▪</g> and thus much for the Introductory part.</item>
+            </list>
+            <p>Now this Pſalm which I have pitched upon doth in a mo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> particular manner differ from the reſt, in regard that the Li<g ref="char:EOLunhyphen"/>teral ſignifications of moſt Pſalms are applicable to <hi>David</hi> and the Allegorical ſignification is applicable to Chriſt, but th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> not only by an Allegory is applicable to Chriſt, but likewiſe i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Literal ſence evidenced from the 8.16.26. Ver. of the ſam<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:punc">▪</g> The words therefore which I have pitched upon, being, <hi>My God<g ref="char:punc">▪</g> My god, why haſt thou forſaken me?</hi> are ſome of thoſe laſt word<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> which were uſed by our Saviour a little before he gave up th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Ghoſt on the Croſs, <hi>Eli, Eli, lamaſabachthani,</hi> which in Engliſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is, <hi>My God, My God, why haſt thou forſaken me?</hi>
+            </p>
+            <p>I ſhall not trouble you with thoſe various gloſſes upon th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Text of Scripture, and therefore I ſhall only pitch upon th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> conſtruction which Ancients have given upon it, and which <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> now approv'd by Modern Writers, <hi>viz.</hi> That <hi>David</hi> or ou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Saviour, did not ſpeak theſe words only or altogether in the<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> own perſons, but in the perſons of All mankind: the latte<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of which Interpretation I intend to make the Subject matter <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="7" facs="tcp:151287:4"/>our Diſcourſe at this time. In the words then you may obſerve <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heſe two parts conſiderable, 1. An affectionate complaint in theſe words, <hi>My God, my God,</hi> 2. an Anxious Expoſtulation, <hi>Why haſt thou forſaken me?</hi> in which diviſions you may obſerve <hi>David's</hi> diſtreſs, being in a deſertion implyed in this expoſtula<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ory Interrogation, <hi>Why haſt thou forſaken me?</hi>
+            </p>
+            <p>Secondly, you may obſerve <hi>David's</hi> Faith, that though in a deſertion, yet God was his God ſtill, He doth not cry out, <hi>O God, O God, Why haſt thou forſaken me,</hi> But, <hi>My God, my God, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hy haſt thou forſaken me?</hi> not as we, when many times in a de<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ertion, cryeth out, <hi>God is not my God,</hi> for the which he might <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uſtly depart from us totally and finally.</p>
+            <p>The words are ſo copious, that Ten Sermons might be more <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>xcellently Preached upon them than one; but to ſquare things <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ccording to time and ſtrength, I ſhall only give you this propo<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ition, or Doctr. <hi>viz.</hi> That,</p>
+            <p>Though God may ſometimes deſert a Believer, yet he re<g ref="char:EOLhyphen"/>mains the Believers God ſtill.</p>
+            <p>Now in the carrying on of this, I ſhall do theſe ſeveral things.</p>
+            <list>
+               <item>1. I ſhall ſhew when a Soul may be ſaid to be in a deſerted condition.</item>
+               <item>2. I ſhall ſhew you thoſe times and ſeaſons that God moſt uſually deſerts a Soul in.</item>
+               <item>3. I ſhall prove the point.</item>
+               <item>4. I ſhall ſhew you thoſe deſignes that God doth propound to himſelf in the deſerting of his Children.</item>
+               <item>5. I ſhall cloſe with the Application.</item>
+            </list>
+            <p>Firſt of all I am to ſhew when a Soul may be ſaid to be in a deſerted condition, and,</p>
+            <p>Firſt of all thou mayſt be ſaid to be in a deſerted condition, when there is an intermiſſion of thy Communion with God: de<g ref="char:EOLhyphen"/>ſertion is nothing elſe but an intermiſſion of our Communion with God. When thou canſt not commune with God as here<g ref="char:EOLhyphen"/>tofore, then it is a ſigne there is ſome diſtance between God and thy Soul, when that bleſſed intercourſe (I ſay) which was <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heretofore between God and thy Soul, is now obſtructed, then
+<pb n="8" facs="tcp:151287:5"/>it is a ſigne that God hath received ſome offence from thee, and ſo is become prejudiced through thy perverſe unſeeming, and ungoſpel like walking towards him.</p>
+            <p>Secondly, when thou doſt deſiſt from waiting upon God, in the uſe of means, then thou mayſt be ſaid to be in a deſerted condition, when the Ordinances of the Goſpel which once were pleaſant to thee, are now but indifferent, then it argues bad: when a man is ſick, there are certain Symptomes by which it may be diſcovered and made known, <hi>viz.</hi> His Looks are Meta<g ref="char:EOLhyphen"/>morphoſed, Pulſes beat, and Appetite loſt; even ſo it is with a Sin-ſick Soul, with a Deſerted Soul, who may be known by thoſe certain Symptoms afore hinted, <hi>viz.</hi> ſhe has not that Sto<g ref="char:EOLhyphen"/>mach as heretofore, once ſhe hungred after the means of Grace, but now ſhe is even ſurfeited with the plentifulneſs of it, her former Appetite ſhe has loſt.</p>
+            <p>Thirdly, when thy Faith touching God, thy Soul, and fu<g ref="char:EOLhyphen"/>ture Eſtate is not ſo clear as heretofore, then thou mayſt be ſaid to be in a deſerted condition. Once thou didſt believe that God was thy God, but now thou art at a ſtand, &amp; doſt not know wha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to think of it, thou thought'ſt that thy Soul once was in a good eſtate, but now thou begins to queſtion it; once if one had asked thee a queſtion concerning thy future eſtate, thou couldſt hav<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> given them a full and perfect anſwer; but now ſuch a queſtio<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> would puzzle thee: Thus I ſay a Soul when in a deſerted condi<g ref="char:EOLunhyphen"/>tion, is at infinite uncertainties touching her future eſtate.</p>
+            <p>Fourthly, when thy Graces are rather decreaſed than in creaſed, then it is a ſign that thou art in a deſerted condition where a decay of Grace is, there the abſence of the eſpecia<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> preſence of God is preſuppoſed, when we grow rather down wards in our Graces than upwards; it doth Prognoſticate no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> only a Deſertion to come, but a deſertion even now, as Su<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ceſs and Proſperity is the effect of God's Preſents, ſo deſertio<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and diſtreſs is the effects of God's abſence.</p>
+            <p>
+               <pb n="9" facs="tcp:151287:5"/>Fifthly, When thy fear is greater than thy Faith, then thou maiſt be ſaid to be in a deſerted condition, as for in<g ref="char:EOLhyphen"/>ſtance, when thou art ſo ſtaggering in thy Faith, as that thou art loath to rely upon, truſt in, and adhaere to Chriſt for Salvation, though the grounds of thy Faith are firm and ſubſtantial enough, when thy fear (I ſay) doth uſurp that Authority which Faith a lone doth claim, then thy con<g ref="char:EOLhyphen"/>dition is very ſuſpicious.</p>
+            <p>I come now to the ſecond thing propos'd, which is, to ſhew thoſe Times and Seaſons that God moſt uſually de<g ref="char:EOLhyphen"/>ſerts a Soul in.</p>
+            <p>And firſt of all when God deſerts, he deſerts in the time of Proſperity, becauſe then we are mighty apt to grow high and lofty, and to aſpire unto things that are ſo ſub<g ref="char:EOLhyphen"/>lime as are beyond our Sphear and Orb, for the which God doth oft-times deſert u<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+            <p>Secondly, in a time of ſecurity, when we are apt to be ſo ſecure in our ſelves, then God departs from us, to the end that he might ſhake off our ſecurity.</p>
+            <p>Thirdly, in a time of murmuring, when we quarrel with God's providences, and are angry with him upon no other Account, but becauſe he doth not humour us, and do what we would have him to do.</p>
+            <p>I come now to the third thing propos'd, <hi>viz.</hi> the proof of the point, namely, that though God may deſert a Be<g ref="char:EOLhyphen"/>liever, yet he remains the believers God ſtill; and herein, I ſhall be brief, leſt I be prevented, in that which yet lags behind: And firſt of all the proof is evidenced in the Text, <hi>My God, my God, why haſt thou forſaken me?</hi> Here a deſertion is intimated, but ſtill God continues in the relation of a Father to the Soul; ſee that excellent place of Scripture
+<pb n="10" facs="tcp:151287:6"/>for the further confirmation of this, <hi>Rom.</hi> 8.38. <hi>John</hi> 10.28. The Sacred Writ doth infinitely abound with Scrip<g ref="char:EOLhyphen"/>tures of this kind.</p>
+            <p>Secondly, God hath entred into a Covenant of Life with a Believer, <hi>Jer.</hi> 31.31. Therefore though the Lord doth deſert, it is only for a time, the Lord will not caſt off for ever, ſaith the Church in <hi>Jeremiah's</hi> time, the <hi>La<g ref="char:EOLhyphen"/>mentations</hi> of <hi>Ieremiah</hi> 3.31.</p>
+            <p>Thirdly, Thoſe Obligations which are injoned on God and the Soul, are not temporary, but in <hi>aeternum,</hi> that is, for ever. As ſoon as ever conjugal affections are contracted between God and the Soul, in <hi>aeternum durabit,</hi> it laſts for ever. But to conclude with this particular, further con<g ref="char:EOLhyphen"/>ſider, God is alwayes the Beleivers God.</p>
+            <p>Firſt, Becauſe the Father in Election is Infallible.</p>
+            <list>
+               <item>2. The Son in his Redemption ſhall not be fruſtrated.</item>
+               <item>3. The Spirit in Application of the benefits of Chriſt's Paſſion is irreſiſtable, and unchangeable.</item>
+               <item>4. Becauſe the Regeneration of God's people is perpe<g ref="char:EOLhyphen"/>tual.</item>
+               <item>5. Becauſe that power by which God's people is uphol<g ref="char:EOLhyphen"/>ded, is invincible and unconquerable.</item>
+            </list>
+            <p>I come now unto the fourth thing propoſed, which is, to ſhew what are thoſe ends and deſigns that God pro<g ref="char:EOLhyphen"/>pounds unto himſelf in the deſerting of a Soul.</p>
+            <p>And the firſt is, <hi>Probandi gratia,</hi> for tryal ſake: God ma<g ref="char:EOLhyphen"/>ny times deſerts us and leaves us, to the end, that he might know how ſtrong our Faith is, how unfeigned our Love is, or inflamed our deſires are, and how hot our Zeal is, for him and to him; God oft-times deales with us as the Mo<g ref="char:EOLhyphen"/>ther doth with her Child, in running away from it, to know whether the child is fond of her, and whether it will run af<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er her.</p>
+            <p>
+               <pb n="11" facs="tcp:151287:6"/>Secondly, God deſerts us <hi>abstinendi gratia,</hi> and leaves us, to the end, that we might leave our ſins, for while we re<g ref="char:EOLhyphen"/>gard iniquity, God will not love us, neither will he dwell with us; God is a holy God, and cannot ſee ſin, with appro<g ref="char:EOLhyphen"/>bation and allowance in any of his creatures. From hence you may obſerve, what is the great propoſition of the Covenant of Grace, which is, either take God and leave ſin, or leave God and take ſin; many times we are apt to grow in love with our ſins, therefore God departs from us, to ſee which we like beſt, he, or ſin.</p>
+            <p>Thirdly, God ſometimes deſerts us and leaves us <hi>(aesti<g ref="char:EOLhyphen"/>mandi gratia)</hi> that we may priſe him the more when he comes to us again. The Preſents of a Friend that has been abſent a great while, how welcome is it? even after this manner it is between God and us, when we have not ſeen his face a great while, how ſweet then is his reconciled face unto us? Oh! Poor ſoul, the great reaſon why God ſtayes ſo long from thee, is, that thou might'ſt priſe him the more when he comes again unto thee.</p>
+            <p>Fourthly, God many times leaves us and deſerts us <hi>(ca<g ref="char:EOLhyphen"/>vendi gratia)</hi> to the end we might have a care of loſing him again. The burnt child <hi>(ut vulgo dicitur)</hi> dreads the fire; ſo that man or woman, who knows how bitter the abſence of God is, will take care another time how they forfeit their communion with him.</p>
+            <p>Fifthly, God many times leaves us and deſerts us <hi>(antici<g ref="char:EOLhyphen"/>andi gratia)</hi> to prevent our affections from being glewed to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hings here below; God many times leaves us (I ſay) leſt <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e ſhould like our being here below too well. If our com<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>union with God was continual, it would be a Heaven then <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pon Earth, if God's preſence was alwayes with us, we <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hould not talk then of going to Heaven: we ſhould even ſay <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Peter</hi> did unto Chriſt in the tranſfiguration, <hi>Lord it is good <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r us</hi> (ſaith he) <hi>to be here,</hi> Matt. 17 4.</p>
+            <p>
+               <pb n="12" facs="tcp:151287:7"/>
+               <hi>Application.</hi>
+            </p>
+            <p>I come now unto the Application, is it ſo, that though God may deſert a Beleiver, yet he is the Believers God ſtill: then this may ſerve for a uſe of comfort and conſolation to you that are in a deſerted condition, though he has left you, yet he is your God ſtill; though he has left you, yet he will come to you again. O drooping Soul bear up then, have a good Heart, though a deſerted Soul yet a hap<g ref="char:EOLhyphen"/>py Soul.</p>
+            <p>
+               <hi>Uſe</hi> 2.</p>
+            <p>Secondly, if ſo be this is a truth, then it will ſerve to refute and conſute ſuch who do hold that one may be a child of God to day, and a child of the Devil to morrow; wherea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> we deny it and affirm thus, once a Believer, and alwayes a Believer, once a child of God and alwayes a child of God: if God hath been really our God, he is our God for ever.</p>
+            <p>
+               <hi>Uſe</hi> 3.</p>
+            <p>If ſo be this is a Truth, then here is encouragement fo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> you, to go to God in your forlorn Eſtate, though he hath deſerted you, yet know he hath not utterly caſt you off; ſee<g ref="char:EOLunhyphen"/>ing then that he is your God, gather from thence ground enough ſufficient not to drive you into deſpair. He is you God (I ſay) therefore go to him and beg earneſtly of him for deliverance: Cry out as our Lord Jeſus did upon th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Croſs, <hi>My God my God why hast thou forſaken me?</hi> Argue i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with God, reaſon the caſe (I ſay) with God; let thy Sou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Expoſtulate with God, after this manner. Lord I am thine and thou art mine, why therefore ſhould there be ſuch diffe<g ref="char:EOLunhyphen"/>rence between thee and my Soul, pray to God believingly
+<pb n="13" facs="tcp:151287:7"/>wreſtle with him in good earneſt, argue with him to ſome purpoſe, until ſuch time thou haſt prevailed with him, and haſt gotten the bleſſing.</p>
+            <p>Having now almoſt brought my Diſcourſe to a Period, I ſhall only lay down a few directions to thoſe who have loſt God's favour, how to get it, ſecondly to thoſe who have gotten God's favour how to keep it.</p>
+            <p>Firſt I am to lay down ſome directions to thoſe who have loſt God's favour, how to get it, and firſt be earneſt in the perſuite after it; if you have loſt God's favour, give neither ſlumber to your Eye-lids, or reſt to your ſoules until ſuch times you get it, becauſe as the beſt White wine, when ſtale, becom's to be the ſowreſt Vinegar, ſo likewiſe, the beſt love when abuſed, turns to be the ſoreſt wrath.</p>
+            <p>Secondly, you muſt endeavour after God's favour by pleading the Promiſes, when thou goeſt to God in a way of Duty, ſay unto him, Lord, thou haſt promiſed ſuch and ſuch things, therefore I am reſolved in the ſtrength of Chriſt not to go away till theſe Promiſes are fulfilled in me.</p>
+            <p>Thirdly to get God's favour, is by weeping, lamenting, and repenting over that which has been the occaſion of loſing it. Phyſicians reckon that when they have found out the cauſe of the Diſtemper, the cure is half done. So ſoul when thou knoweſt what that particular thing is for, which God hath departed from thee, then there is hopes; O therefore loath thy ſelf, cry ſhame of thy ſelf, in regard of carrying thy ſelf ſo frowardly and diſobediently unto God who hath been ſo good unto thee.</p>
+            <p>I come now to give ſome directions unto thoſe who have gotten God's Favour, how to keep it.</p>
+            <p>
+               <pb n="14" facs="tcp:151287:8"/>And firſt of all be ſure you prize it: valew you it at a high rate, you that have gotten God's Favour are rich in<g ref="char:EOLhyphen"/>deed; nay further, if you have gotten God's favour, you have gotten that which a Thouſand Worlds can't pur<g ref="char:EOLhyphen"/>chaſe.</p>
+            <p>Secondly, if thou wouldſt keep God's favour, endeavour to live anſwerable unto it; have a care of ſinning away God's favour, make a good uſe of it, grace the Goſpel of our Lord Jeſus, with a pure and blameleſs converſation. The way to get mercies continued, is by getting them Sanctified.</p>
+            <p>Thirdly, if thou wouldſt keep God's favour, wait then upon him in a conſcientious uſe of means; pray more ſincere<g ref="char:EOLhyphen"/>ly than heretofore, pray more ardently then heretofore, pray more believingly than heretofore, pray more perſeveringly than heretofore: So in like manner, when thou comeſt to the Sacrament, let thy love be unfeigned, thy Faith increa<g ref="char:EOLhyphen"/>ſed, thy Repentance renewed; be frequent, I ſay, in the uſe of thoſe means which God hath appointed for the increaſe of our graces, ſo as that you may live like a people that have a Hell to eſcape, and a Heaven to obtain.</p>
+            <p>Fourthly, to keep God's favour, is by conſidering that if thou loſeſt it, thou wilt thereby loſe thy ſoul; if God's Favour is kept, thy ſalvation is ſure, but if <hi>God's</hi> favour is loſt then thy ſalvation is loſt.</p>
+            <p>Fifthly and laſtly, to keep <hi>God's</hi> favour is by believing that it is the principal thing in Heaven and Earth, which indeed it is, what will it profit you, if you ſhould gain the whole world and loſe <hi>God's</hi> favour: is there any thing here below that can do you good in another World, beſides the favour of <hi>God?</hi>
+            </p>
+            <p>Money will buy <hi>(ut alii dicum)</hi> all things but not the fa<g ref="char:EOLhyphen"/>v<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ur of God.</p>
+            <p>
+               <pb n="15" facs="tcp:151287:8"/>Finally, (my brethren) there is nothing to be compared with it, Oh then! what now doth remain, but that you ſhould ſo prize it, the favour of God is an excellent thing, do you ſo account it; which that you may ſo do, the Lord God ſay <hi>Amen.</hi>
+            </p>
+            <closer>Laus Deo.</closer>
+            <pb facs="tcp:151287:9" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
